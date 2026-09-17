@@ -1,0 +1,16 @@
+Product_ID,Product,Product_Category,Business_Unit_ID,Business_Unit,Standard_Cost,List_Price,Product_Status
+P001,Enterprise ERP Suite,Enterprise Software,BU001,Enterprise Solutions,20000,50000,Active
+P002,CRM Platform,Enterprise Software,BU001,Enterprise Solutions,12000,30000,Active
+P003,Workflow Automation,Enterprise Software,BU001,Enterprise Solutions,8000,20000,Active
+P004,Supply Chain Suite,Enterprise Software,BU001,Enterprise Solutions,17000,40000,Active
+P005,Cloud Infrastructure,Cloud,BU002,Cloud Services,6500,15000,Active
+P006,Cloud Storage,Cloud,BU002,Cloud Services,3000,8000,Active
+P007,Managed Cloud Services,Cloud,BU002,Cloud Services,5000,12000,Active
+P008,Cloud Backup,Cloud,BU002,Cloud Services,2200,6000,Active
+P009,BI Platform,Analytics,BU003,Data & Analytics,9000,25000,Active
+P010,Data Warehouse,Analytics,BU003,Data & Analytics,13000,35000,Active
+P011,Data Integration,Analytics,BU003,Data & Analytics,7000,18000,Active
+P012,Advanced Analytics,Analytics,BU003,Data & Analytics,10000,28000,Active
+P013,Endpoint Security,Cybersecurity,BU004,Cybersecurity,3500,10000,Active
+P014,Network Security,Cybersecurity,BU004,Cybersecurity,8000,22000,Active
+P015,Identity Management,Cybersecurity,BU004,Cybersecurity,6000,16000,Active
