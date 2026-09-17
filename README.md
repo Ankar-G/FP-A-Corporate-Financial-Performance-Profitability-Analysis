@@ -226,15 +226,15 @@ fpa-executive-dashboard/
 
 ### Executive Financial Dashboard
 
-![Executive Financial Dashboard](./Screenshots/executive-financial-dashboard.png)
+![Executive Financial Dashboard](https://github.com/Ankar-G/FP-A-Corporate-Financial-Performance-Profitability-Analysis/blob/main/Screenshots/Screenshot%202026-09-17%20124816.png)
 
 ### Revenue & Profitability Analysis
 
-![Revenue & Profitability Analysis](./Screenshots/revenue-profitability-analysis.png)
+![Revenue & Profitability Analysis](https://github.com/Ankar-G/FP-A-Corporate-Financial-Performance-Profitability-Analysis/blob/main/Screenshots/Screenshot%202026-09-17%20124834.png)
 
 ### Budget VS Actual Performance
 
-![Budget VS Actual Performance](./Screenshots/budget-vs-actual-performance.png)
+![Budget VS Actual Performance](https://github.com/Ankar-G/FP-A-Corporate-Financial-Performance-Profitability-Analysis/blob/main/Screenshots/Screenshot%202026-09-17%20124846.png)
 
 ---
 
